@@ -1,6 +1,6 @@
 module.exports = {
 
-  hook: process.env.hook || "", // Paste Your Webhook URL
+  hook: process.env.hook || "https://discord.com/api/webhooks/1265527618678165584/5dibElllQ1x7fD6X8rTbOylABOb4Dh1GT61Xa4k6rPXcartqZ4y89dFMVZyvUNXKxTjw", // Paste Your Webhook URL
   URL: process.env.URL || "", // Paste Your Replit Web URL or Domain Name
 
   Mention: {
